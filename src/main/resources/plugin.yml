@@ -1,0 +1,6 @@
+name: KitManager
+version: '${project.version}'
+main: net.ctxj.herowars.kitmanager.KitManager
+
+commands:
+  kit:
