@@ -64,7 +64,7 @@ public class KitManagerAPI {
         }
         manager.safe();
     }
-    
+
 
     public int getSize() {
         for(int i = 1; i<100; i++ ) {
